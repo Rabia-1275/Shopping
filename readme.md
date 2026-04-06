@@ -78,15 +78,6 @@ Shopping-Website/
 
 ---
 
-## 🛒 Cart Functionality
-
-- Products are stored in `localStorage` so cart persists on page refresh
-- Add items from the Shop page using "Add to Cart" buttons
-- View, update quantity, and remove items on the Cart page
-- Cart total is calculated dynamically
-
----
-
 ## 🌐 Live Demo
 
 > 🔗 [View Live Project](#) *(https://rabia-1275.github.io/Shopping/)*
